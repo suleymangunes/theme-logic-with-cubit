@@ -13,6 +13,7 @@ class LightThemeCustom {
         color: LightThemeColors._appBarBackground,
         titleTextStyle: TextStyle(
           fontSize: LightThemeString._appBarTitleSize,
+          color: Colors.black,
         ),
         iconTheme: IconThemeData(
           size: LightThemeIcon._iconBigSize / 2,

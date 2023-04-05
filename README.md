@@ -1,16 +1,12 @@
-# theme_with_cubit
+# Theme with Cubit for Flutter apps
 
-A new Flutter project.
+With this project change theme with button and Lottie animations using Cubit(bloc).
 
-## Getting Started
+## With Button
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+  <img src="readme_files/buton_aydinlik.png" width="100" />
+  <img src="readme_files/buton_karanlik.png" width="100" /> 
+  <img src="readme_files/lottie_aydinlik.png" width="100" />
+  <img src="readme_files/lottie_karanlik.png" width="100" />
+</p>

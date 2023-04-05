@@ -13,6 +13,7 @@ class DarkThemeCustom {
         color: DarkThemeColors._appBarBackground,
         titleTextStyle: TextStyle(
           fontSize: DarkThemeString._appBarTitleSize,
+          color: Colors.white,
         ),
         iconTheme: IconThemeData(
           size: DarkThemeIcon._iconBigSize / 2,
