@@ -9,10 +9,18 @@ class LightThemeCustom {
     theme = ThemeData.light().copyWith(
       //  CUSTOMIZE AREA
       appBarTheme: const AppBarTheme(
+        centerTitle: true,
         color: LightThemeColors._appBarBackground,
         titleTextStyle: TextStyle(
           fontSize: LightThemeString._appBarTitleSize,
         ),
+        iconTheme: IconThemeData(
+          size: LightThemeIcon._iconBigSize / 2,
+        ),
+      ),
+      iconTheme: const IconThemeData(
+        size: LightThemeIcon._iconBigSize,
+        color: LightThemeIcon._iconColor,
       ),
     );
   }

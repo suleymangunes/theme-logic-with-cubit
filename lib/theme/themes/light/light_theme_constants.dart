@@ -10,3 +10,9 @@ class LightThemeString {
   const LightThemeString._();
   static const double _appBarTitleSize = 25;
 }
+
+class LightThemeIcon {
+  const LightThemeIcon._();
+  static const double _iconBigSize = 65;
+  static const Color _iconColor = Colors.black;
+}
